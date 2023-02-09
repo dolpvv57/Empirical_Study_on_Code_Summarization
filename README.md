@@ -1,7 +1,9 @@
 # Empirical_Study_on_Code_Summarization
-There are 4 datasets and 4 models we use in the paper: **Does Code Summarization Model Load Too Much? Function Signature May Be All That Need**
+There are 4 datasets and 4 models we use in the paper: 
 
-## Dataset
+**Does Code Summarization Model Load Too Much? Function Signature May Be All That Need**
+
+## Datasets
 
 Four open-source dataset including:
 ### TLC
@@ -25,3 +27,20 @@ Source paper: [Deep code comment generation with hybrid lexical and syntactical 
 The source dataset is available in Google Drive: [dataset](https://drive.google.com/drive/folders/130liaynevaYo2AhNoFtadtc7uBS12_aW?usp=sharing)
 
 We have de-duplicated this dataset, and the de-duplicated dataset is available in [Google_drive_hybrid_dedup](https://drive.google.com/drive/folders/110Vwl9bccZChRSaMm0uU7AuUMVPt_Cku?usp=share_link)
+
+### Python
+Source paper: [Improving automatic source code summarization via deep reinforcement learning](https://doi.org/10.1145/3238147.3238206)
+
+The dataset is available in GitHub: [CODESCRIBE/data/python](https://github.com/GJCEXP/CODESCRIBE/tree/master/data/python)
+
+We use this dataset directly, as there are no duplicates.
+
+## Models
+### Single-GRU
+We put the code for this model in the directory **Single-GRU**
+
+### Hybrid-Deepcom
+
+
+### Transformer
+### GTrans
