@@ -40,7 +40,14 @@ We use this dataset directly, as there are no duplicates.
 We put the code for this model in the directory **Single-GRU**
 
 ### Hybrid-Deepcom
+Source paper: [Deep code comment generation with hybrid lexical and syntactical information](https://doi.org/10.1007/s10664-019-09730-9)
 
-
+We put the code we reproduced for this model in the directory **Hybrid-Deepcom**
 ### Transformer
+Source paper: [A Transformer-based Approach for Source Code Summarization](https://doi.org/10.18653/v1/2020.acl-main.449)
+
+Source code in GitHub: [wasiahmad/NeuralCodeSum](https://github.com/wasiahmad/NeuralCodeSum)
 ### GTrans
+Source paper: [Code comment generation based on graph neural network enhanced transformer model for code understanding in open-source software ecosystems](https://doi.org/10.1007/s10515-022-00341-1)
+
+Source code in GitHub: [css518/GTrans](https://github.com/css518/GTrans)
